@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Pavlo — Dekrov
 
-<!--
-**DekrovDev/DekrovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools, automation systems and experiments around AI.
 
-Here are some ideas to get you started:
+Most of my projects start with a simple question:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**“Can I actually make this useful?”**
+
+### What I'm working on
+
+* AI tools and agent workflows
+* Developer utilities
+* Automation
+* Telegram products
+* Web interfaces
+* Experiments with new models and coding agents
+
+### Selected projects
+
+**AI Tools / Dev Resources**
+A growing catalog of AI tools and developer resources.
+→ https://ai.dekrov.com
+
+**Dekrov QR**
+Simple QR generator for anything.
+
+**Data Viewer**
+Tools for working with and inspecting structured data.
+
+**Telegram projects**
+Bots, automation and experiments around Telegram.
+
+### Stack
+
+Python · FastAPI · JavaScript · TypeScript · React · Git
+
+Also using AI coding agents heavily in my development workflow.
+
+### Elsewhere
+
+Website — https://dekrov.com
+X — https://x.com/Dekrov_Dev
+
