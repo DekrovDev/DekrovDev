@@ -15,21 +15,6 @@ Most of my projects start with a simple question:
 * Web interfaces
 * Experiments with new models and coding agents
 
-### Selected projects
-
-**AI Tools / Dev Resources**
-A growing catalog of AI tools and developer resources.
-→ https://ai.dekrov.com
-
-**Dekrov QR**
-Simple QR generator for anything.
-
-**Data Viewer**
-Tools for working with and inspecting structured data.
-
-**Telegram projects**
-Bots, automation and experiments around Telegram.
-
 ### Stack
 
 Python · FastAPI · JavaScript · TypeScript · React · Git
