@@ -10,12 +10,6 @@ I'm curious about how things work, I enjoy trying new tech, and I tend to learn 
 
 I don't want this page to be a list of technologies. I'd rather let the projects do the talking.
 
-### A few things I've made
-
-- **Ghost UI** — a little browser-side experiment that grew into a proper project.
-- **Dekrov Insights** — a place for digging into interesting things happening in AI and tech.
-- **More experiments** — tools, interfaces, automations, and whatever catches my curiosity next.
-
 ### Find me around
 
 - [My links](https://links.dekrov.com) — the easiest way to find everything.
