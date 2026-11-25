@@ -13,7 +13,7 @@ I don't want this page to be a list of technologies. I'd rather let the projects
 ### Find me around
 
 - [My links](https://links.dekrov.com) — the easiest way to find everything.
-- [Website](https://dekrov.com)
-- [X](https://x.com/Dekrov_Dev)
+- [Website](https://dekrov.com) — my Portfolio.
+- [X](https://x.com/Dekrov_Dev) — my account on X
 
 *Still learning, still building, still figuring things out. That's kind of the point.*
