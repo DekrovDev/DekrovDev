@@ -23,4 +23,5 @@ Also using AI coding agents heavily in my development workflow.
 ### Elsewhere
 
 Website - https://dekrov.com
+Links - https://links.dekrov.com
 X - https://x.com/Dekrov_Dev
