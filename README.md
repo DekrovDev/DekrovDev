@@ -1,27 +1,25 @@
-# Hey, I'm Pavlo — Dekrov
+# Hey, I'm Pavlo. Online, I'm Dekrov.
 
-I build tools, automation systems and experiments around AI.
+I like building things that make me stop and think, *"wait… can I actually pull this off?"*
 
-Most of my projects start with a simple question:
+That usually leads somewhere interesting.
 
-**“Can I actually make this useful?”**
+One day it's a browser extension. The next, an AI experiment, a tiny tool, a website, or an idea that probably started way too late at night.
 
-### What I'm working on
+I'm curious about how things work, I enjoy trying new tech, and I tend to learn by making stuff — then breaking it, fixing it, and making it a little better.
 
-* AI tools and agent workflows
-* Developer utilities
-* Automation
-* Web interfaces
-* Experiments with new models and coding agents
+I don't want this page to be a list of technologies. I'd rather let the projects do the talking.
 
-### Stack
+### A few things I've made
 
-Python · FastAPI · JavaScript · TypeScript · React · Git
+- **Ghost UI** — a little browser-side experiment that grew into a proper project.
+- **Dekrov Insights** — a place for digging into interesting things happening in AI and tech.
+- **More experiments** — tools, interfaces, automations, and whatever catches my curiosity next.
 
-Also using AI coding agents heavily in my development workflow.
+### Find me around
 
-### Elsewhere
+- [My links](https://links.dekrov.com) — the easiest way to find everything.
+- [Website](https://dekrov.com)
+- [X](https://x.com/Dekrov_Dev)
 
-Website - https://dekrov.com
-Links - https://links.dekrov.com
-X - https://x.com/Dekrov_Dev
+*Still learning, still building, still figuring things out. That's kind of the point.*
